@@ -1,6 +1,6 @@
-# Htwg Konstanz Thesis Template
+# TU Berlin Thesis Template
 
-Dies ist ein Template zum Schreiben der Bachelor/Masterarbeit an der Htwg Konstanz mit dem Markdown Syntax.
+Dies ist ein inoffizielles Template zum Schreiben der Bachelor/Masterarbeit an der TU Berlin mit dem Markdown Syntax.
 
 ## Benötigte Software:
 
