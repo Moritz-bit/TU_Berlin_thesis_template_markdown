@@ -13,7 +13,7 @@ Dies ist ein inoffizielles Template zum Schreiben der Bachelor/Masterarbeit an d
 * __chapters:__  Enthält die Markdown-Dateien der eingentlichen Kapitel 
 * __code:__ Code Beispiele
 * __images:__ Ort für Bilder
-* __resources:__ Deckblatt-Vorlage der HTWG im tex-Format
+* __resources:__ Deckblatt-Vorlage der TU Berlin im tex-Format
 * __result:__ Ergebnis der Umwandlung von Pandoc
 
 Die eigentlichen Kapitel werden als Markdown-Dateien geschrieben und mit dem Program __Pandoc__ zu einem PDF umgewandelt. Für Features die nicht von Markdown unterstützt werden, kann Latech-Code verwendet werden. Die vorhandenen Kapitel geben darüber Auskunft wie Code, Bilder, Fußnoten usw. im Dokument eingebaut werden.

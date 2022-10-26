@@ -3,17 +3,18 @@ thema: Thema der Arbeit
 schlagworte: Spezifische, Schlagworte, zur, Ausarbeitung
 zusammenfassung: Lorem Ipsum
 autor: Max Mustermann
-ausgabedatum: 01.01.1999
-abgabedatum: 01.02.1999
+ausgabedatum: 01.01.2022
+abgabedatum: 01.02.2022
 autorStrasse: Musterstrasse 1
 autorPLZ: 99999 
 autorOrt:  Musterstadt
 autorGeburtsort: Musterstadt
 autorGeburtsdatum: 01.01.1990
-prueferA: Prof. Dr. Max 
-prueferB: Prof. Dr. Moritz
-firma: HTWG Konstanz
-fakultaet: Informatik
+prueferA: Prof. Dr. M. Musterer (TU Berlin)
+prueferB: Prof. Dr.  M. Musterin (XXX)
+betreuer: Max Muster M. Sc.
+firma: TU Berlin
+fakultaet: Fahrzeugtechnik
 studiengang: Angewandtes Markdown, Vertiefungsrichtung Pandoc
 
 
