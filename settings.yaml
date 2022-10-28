@@ -1,5 +1,5 @@
 ---
-thema: Thema der Arbeit
+thema: Titel der Arbeit
 schlagworte: Spezifische, Schlagworte, zur, Ausarbeitung
 zusammenfassung: Lorem Ipsum
 autor: Max Mustermann
@@ -30,7 +30,7 @@ documentclass: report
 pagenumberstyle_before: Roman
 pagenumberstyle_thesis: arabic
 mainfont: abc
-fontsize: 12pt
+fontsize: 11pt
 geometry: margin=3cm,headsep=.5cm,headheight=.5cm
 papersize: a4paper
 fontfamily: libertine
