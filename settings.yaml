@@ -12,7 +12,8 @@ autorGeburtsort: Musterstadt
 autorGeburtsdatum: 01.01.1990
 prueferA: Prof. Dr. M. Musterer (TU Berlin)
 prueferB: Prof. Dr.  M. Musterin (XXX)
-betreuer: Max Muster M. Sc.
+betreuer: Name des Betreuers mit Titel (TU Berlin)
+betreuerU: ggf. Name des Betreuers mit Titel (Unternehmen)
 firma: TU Berlin
 fakultaet: Fahrzeugtechnik
 studiengang: Angewandtes Markdown, Vertiefungsrichtung Pandoc
